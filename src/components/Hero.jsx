@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from '../styles/Hero.module.css';
-import { Typewriter } from 'react-simple-typewriter';
+import Typewriter from 'react-simple-typewriter';
 
 const Hero = () => {
   return (
